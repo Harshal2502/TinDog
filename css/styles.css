@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
 body {
   text-align: center;
 }
@@ -13,13 +13,18 @@ h1 {
   font-size: 3.5rem;
 }
 
+p {
+  letter-spacing: 1px;
+  color: #8f8f8f;
+}
+
 
 /* heading */
 
 .heading {
   line-height: 1.5;
   font-size: 3.5rem;
-  font-weight: 900;
+  font-weight: 100;
   color: #fff;
 }
 
@@ -33,7 +38,7 @@ h1 {
   width: 60%;
   position: absolute;
   transform: rotate(25deg);
-  right: 30%;
+  right: 15%;
 }
 
 
@@ -54,13 +59,12 @@ h1 {
 }
 
 .w700 {
-  font-weight: 700;
   font-size: 1.5rem;
 } 
 
 .par {  
   color: #8f8f8f;
-  font-weight: 600;
+  width: 228px;
 }
 
 .box {
@@ -99,7 +103,7 @@ h1 {
 }
 
 .container-fluid {
-  padding: 3% 15% 7%;
+  padding: 3% 14% 7%;
 }
 
 
@@ -107,7 +111,7 @@ h1 {
 
 .Download-btn{
   margin: 5% 3% 5% 0;
-  font-weight: 900;
+  letter-spacing: 1px;
 }
 
 
@@ -120,7 +124,8 @@ h1 {
 
 .test-text {
   font-family: sans-serif;
-  font-weight: 900;
+  font-size: 3rem;
+  line-height: 1.5;
 }
 
 .test-img {
@@ -158,9 +163,8 @@ h1 {
 }
 
 .pricing-txt {
-  font-size: 2rem;
+  font-size: 3rem;
   line-height: 1.5;
-  font-weight: 900;
   color: #1f1f1f;
 }
 
