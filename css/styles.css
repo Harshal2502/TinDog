@@ -64,11 +64,10 @@ p {
 
 .par {  
   color: #8f8f8f;
-  width: 228px;
 }
 
 .box {
-  padding: 5%;
+  padding: 4.5%;
 }
 
 
@@ -112,6 +111,7 @@ p {
 .Download-btn{
   margin: 5% 3% 5% 0;
   letter-spacing: 1px;
+  padding: 0.5rem 1.12rem;
 }
 
 
@@ -185,8 +185,6 @@ p {
   #title {
     text-align: center;
   }
-
-  
 }
 
 
