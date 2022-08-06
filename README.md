@@ -1,3 +1,3 @@
 # TinDog
 Meet new dogs nearby
-https://harshaldevmurari.github.io/TinDog/
+https://harshal2502.github.io/TinDog/
